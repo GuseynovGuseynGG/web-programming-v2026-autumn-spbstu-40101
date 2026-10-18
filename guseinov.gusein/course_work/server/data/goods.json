@@ -1,0 +1,898 @@
+[
+  {
+    "id": 1,
+    "name": "Внешний аккумулятор 10000mAh, белый",
+    "type": "Аксессуары",
+    "color": "Белый",
+    "price": 2490,
+    "rating": 4.5,
+    "popularity": 72,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 8,
+    "image": "/images/goods/image_1.png",
+    "description": "Компактный внешний аккумулятор на 10000 мА·ч в белом корпусе. Подходит для смартфонов и наушников.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Ёмкость",
+        "value": "10000 мА·ч"
+      },
+      {
+        "name": "Выходы",
+        "value": "USB-A, USB-C"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Внешний аккумулятор 10000mAh, черный",
+    "type": "Аксессуары",
+    "color": "Черный",
+    "price": 2490,
+    "rating": 4.6,
+    "popularity": 81,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 7,
+    "image": "/images/goods/image_2.png",
+    "description": "Надёжный пауэрбанк в чёрном матовом корпусе с быстрой зарядкой.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Ёмкость",
+        "value": "10000 мА·ч"
+      },
+      {
+        "name": "Выходы",
+        "value": "USB-A, USB-C"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth гарнитура, черный",
+    "type": "Наушники",
+    "color": "Черный",
+    "price": 1990,
+    "rating": 4.2,
+    "popularity": 55,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 10,
+    "image": "/images/goods/image_3.png",
+    "description": "Беспроводная гарнитура с микрофоном и стабильным Bluetooth-соединением.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Подключение",
+        "value": "Bluetooth 5.0"
+      },
+      {
+        "name": "Время работы",
+        "value": "8 ч"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth гарнитура, серый",
+    "type": "Наушники",
+    "color": "Серый",
+    "price": 1990,
+    "rating": 4.1,
+    "popularity": 48,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 11,
+    "image": "/images/goods/image_4.png",
+    "description": "Лёгкая гарнитура серого цвета для звонков и музыки.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Подключение",
+        "value": "Bluetooth 5.0"
+      },
+      {
+        "name": "Время работы",
+        "value": "8 ч"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Беспроводная акустика",
+    "type": "Портативная акустика",
+    "color": "Розовый",
+    "price": 4990,
+    "rating": 3.6,
+    "popularity": 90,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 12,
+    "image": "/images/goods/image_5.png",
+    "description": "Компактная колонка с насыщенным звуком. Удобна дома и в поездке.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Мощность",
+        "value": "5 Вт"
+      },
+      {
+        "name": "Влагозащита",
+        "value": "IPX4"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Смартфон 256 ГБ фиолетовый",
+    "type": "Смартфоны",
+    "color": "Фиолетовый",
+    "price": 43999,
+    "rating": 4.2,
+    "popularity": 88,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 28,
+    "image": "/images/goods/image_6.png",
+    "description": "Смартфон с 256 ГБ памяти в фиолетовом корпусе, ярким экраном и быстрой камерой.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Память",
+        "value": "256 ГБ"
+      },
+      {
+        "name": "Экран",
+        "value": "6.5\"/1080x2400 Пикс"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Смартфон 256 ГБ черный",
+    "type": "Смартфоны",
+    "color": "Черный",
+    "price": 42999,
+    "rating": 4.4,
+    "popularity": 92,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 18,
+    "image": "/images/goods/image_7.png",
+    "description": "Флагманский смартфон в классическом чёрном цвете с объёмом памяти 256 ГБ.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Память",
+        "value": "256 ГБ"
+      },
+      {
+        "name": "Экран",
+        "value": "6.5\"/1080x2400 Пикс"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Смартфон 256 ГБ белый",
+    "type": "Смартфоны",
+    "color": "Белый",
+    "price": 42999,
+    "rating": 4.3,
+    "popularity": 70,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 27,
+    "image": "/images/goods/image_8.png",
+    "description": "Смартфон 256 ГБ в белом корпусе — лёгкий, быстрый и удобный в повседневном использовании.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Память",
+        "value": "256 ГБ"
+      },
+      {
+        "name": "Экран",
+        "value": "6.5\"/1080x2400 Пикс"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Часы с GPS трекером черные",
+    "type": "Умные часы",
+    "color": "Черный",
+    "price": 15199,
+    "rating": 4.0,
+    "popularity": 66,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 30,
+    "image": "/images/goods/image_9.png",
+    "description": "Умные часы с GPS-трекером, пульсометром и уведомлениями со смартфона.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Экран",
+        "value": "1.4\" AMOLED"
+      },
+      {
+        "name": "GPS",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Часы с GPS трекером синие",
+    "type": "Умные часы",
+    "color": "Синий",
+    "price": 2000,
+    "rating": 4.8,
+    "popularity": 74,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 32,
+    "image": "/images/goods/image_10.png",
+    "description": "Детские и подростковые часы с GPS, звонками и геозонами.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "GPS",
+        "value": "Да"
+      },
+      {
+        "name": "Связь",
+        "value": "4G"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Фитнес-браслет ASK-B19 зеленый",
+    "type": "Фитнес-браслеты",
+    "color": "Зеленый",
+    "price": 2299,
+    "rating": 4.4,
+    "popularity": 60,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 16,
+    "image": "/images/goods/image_11.png",
+    "description": "Фитнес-браслет с мониторингом сна, шагов и пульса в зелёном ремешке.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Влагозащита",
+        "value": "5 ATM"
+      },
+      {
+        "name": "Батарея",
+        "value": "до 14 дней"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Фитнес-браслет ASK-B19 черный",
+    "type": "Фитнес-браслеты",
+    "color": "Черный",
+    "price": 2299,
+    "rating": 4.5,
+    "popularity": 77,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 15,
+    "image": "/images/goods/image_12.png",
+    "description": "Спортивный браслет с ярким экраном и точным подсчётом активности.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Влагозащита",
+        "value": "5 ATM"
+      },
+      {
+        "name": "Батарея",
+        "value": "до 14 дней"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Наушники белые",
+    "type": "Наушники",
+    "color": "Белый",
+    "price": 3990,
+    "rating": 4.6,
+    "popularity": 83,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 29,
+    "image": "/images/goods/image_13.png",
+    "description": "Беспроводные наушники True Wireless с чистым звуком и удобной посадкой.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Подключение",
+        "value": "Bluetooth 5.3"
+      },
+      {
+        "name": "Кейс",
+        "value": "USB-C"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Наушники синие",
+    "type": "Наушники",
+    "color": "Синий",
+    "price": 3990,
+    "rating": 4.5,
+    "popularity": 58,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 26,
+    "image": "/images/goods/image_14.png",
+    "description": "True Wireless наушники в синем цвете, защита от брызг, быстрое сопряжение.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Подключение",
+        "value": "Bluetooth 5.3"
+      },
+      {
+        "name": "Кейс",
+        "value": "USB-C"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Наушники черные",
+    "type": "Наушники",
+    "color": "Черный",
+    "price": 3990,
+    "rating": 4.7,
+    "popularity": 95,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 14,
+    "image": "/images/goods/image_15.png",
+    "description": "Чёрные беспроводные наушники с шумоподавлением и стабильным соединением.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Подключение",
+        "value": "Bluetooth 5.3"
+      },
+      {
+        "name": "Шумоподавление",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Видеокамера для блогера",
+    "type": "Аксессуары",
+    "color": "Черный",
+    "price": 18990,
+    "rating": 4.6,
+    "popularity": 61,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 25,
+    "image": "/images/goods/image_16.png",
+    "description": "Экшн-камера с двумя экранами для съёмки влогов, спорта и путешествий.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Видео",
+        "value": "4K"
+      },
+      {
+        "name": "Стабилизация",
+        "value": "Электронная"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Микрофон с разъемом Type-C",
+    "type": "Аксессуары",
+    "color": "Черный",
+    "price": 3290,
+    "rating": 4.3,
+    "popularity": 44,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 13,
+    "image": "/images/goods/image_17.png",
+    "description": "Петличный микрофон с разъёмом Type-C для смартфона и стримов.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Разъём",
+        "value": "USB-C"
+      },
+      {
+        "name": "Кабель",
+        "value": "2 м"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Чехол-подвеска силиконовый с карабином, красный",
+    "type": "Аксессуары",
+    "color": "Красный",
+    "price": 490,
+    "rating": 4.0,
+    "popularity": 40,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 6,
+    "image": "/images/goods/image_18.png",
+    "description": "Силиконовый чехол-подвеска с карабином, защищает метку от царапин.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "6 месяцев"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Крепление",
+        "value": "Карабин"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Чехол-подвеска силиконовый с карабином, белый",
+    "type": "Аксессуары",
+    "color": "Белый",
+    "price": 490,
+    "rating": 4.1,
+    "popularity": 38,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 5,
+    "image": "/images/goods/image_19.png",
+    "description": "Белый силиконовый чехол с карабином для трекера.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "6 месяцев"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Крепление",
+        "value": "Карабин"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Чехол-подвеска силиконовый с карабином, серый",
+    "type": "Аксессуары",
+    "color": "Серый",
+    "price": 490,
+    "rating": 4.0,
+    "popularity": 33,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 4,
+    "image": "/images/goods/image_20.png",
+    "description": "Серый чехол-подвеска — незаметный и практичный аксессуар.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "6 месяцев"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Крепление",
+        "value": "Карабин"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Чехол-подвеска силиконовый с карабином, желтый",
+    "type": "Аксессуары",
+    "color": "Желтый",
+    "price": 490,
+    "rating": 4.2,
+    "popularity": 36,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 24,
+    "image": "/images/goods/image_21.png",
+    "description": "Яркий жёлтый чехол, чтобы трекер было легко найти в сумке.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "6 месяцев"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Крепление",
+        "value": "Карабин"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Беспроводная акустика, серый",
+    "type": "Портативная акустика",
+    "color": "Серый",
+    "price": 4590,
+    "rating": 4.4,
+    "popularity": 52,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 9,
+    "image": "/images/goods/image_22.png",
+    "description": "Портативная колонка в сером корпусе с объёмным звуком и долгой батареей.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Мощность",
+        "value": "10 Вт"
+      },
+      {
+        "name": "Батарея",
+        "value": "12 ч"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Беспроводная акустика, голубой",
+    "type": "Портативная акустика",
+    "color": "Голубой",
+    "price": 4590,
+    "rating": 4.3,
+    "popularity": 50,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 23,
+    "image": "/images/goods/image_23.png",
+    "description": "Голубая беспроводная колонка для дома и улицы.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Мощность",
+        "value": "10 Вт"
+      },
+      {
+        "name": "Батарея",
+        "value": "12 ч"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Беспроводная акустика, бежевый",
+    "type": "Портативная акустика",
+    "color": "Бежевый",
+    "price": 4590,
+    "rating": 4.2,
+    "popularity": 47,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 22,
+    "image": "/images/goods/image_24.png",
+    "description": "Бежевая колонка в мягком цвете, приятный бас и Bluetooth 5.1.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Мощность",
+        "value": "10 Вт"
+      },
+      {
+        "name": "Батарея",
+        "value": "12 ч"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Умная лампа",
+    "type": "Аксессуары",
+    "color": "Белый",
+    "price": 3490,
+    "rating": 4.5,
+    "popularity": 57,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 21,
+    "image": "/images/goods/image_25.png",
+    "description": "Умная лампа с регулировкой яркости и сценариями освещения.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Цоколь",
+        "value": "E27"
+      },
+      {
+        "name": "Управление",
+        "value": "Приложение"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Аппаратный ключ аутентификации NFC",
+    "type": "Аксессуары",
+    "color": "Синий",
+    "price": 10590,
+    "rating": 5.0,
+    "popularity": 99,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 3,
+    "image": "/images/goods/image_26.png",
+    "description": "Аппаратный ключ безопасности с NFC для двухфакторной аутентификации.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "name": "Интерфейс",
+        "value": "USB-A, NFC"
+      },
+      {
+        "name": "Протоколы",
+        "value": "FIDO2, U2F"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Аппаратный криптокошелек",
+    "type": "Аксессуары",
+    "color": "Черный",
+    "price": 12990,
+    "rating": 4.8,
+    "popularity": 41,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 2,
+    "image": "/images/goods/image_27.png",
+    "description": "Аппаратный криптокошелёк для безопасного хранения цифровых активов.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "name": "Экран",
+        "value": "OLED"
+      },
+      {
+        "name": "Подключение",
+        "value": "USB-C"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Очки виртуальной реальности, смартфоны до 6,5\"",
+    "type": "Очки виртуальной реальности",
+    "color": "Черный",
+    "price": 2990,
+    "rating": 3.9,
+    "popularity": 45,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 17,
+    "image": "/images/goods/image_28.png",
+    "description": "VR-очки для смартфонов с диагональю до 6,5 дюймов. Погружение в игры и видео.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Совместимость",
+        "value": "Смартфоны до 6,5\""
+      },
+      {
+        "name": "Регулировка",
+        "value": "Межзрачковое расстояние"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Шлем виртуальной реальности 128GB",
+    "type": "Очки виртуальной реальности",
+    "color": "Белый",
+    "price": 49990,
+    "rating": 4.8,
+    "popularity": 97,
+    "isNew": false,
+    "isHit": true,
+    "novelty": 19,
+    "image": "/images/goods/image_29.png",
+    "description": "Автономный VR-шлем с 128 ГБ памяти, чётким изображением и удобными контроллерами.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Память",
+        "value": "128 ГБ"
+      },
+      {
+        "name": "Разрешение",
+        "value": "1832×1920 на глаз"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Умный чемодан-скутер серый",
+    "type": "Электротранспорт",
+    "color": "Серый",
+    "price": 67990,
+    "rating": 4.1,
+    "popularity": 29,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 20,
+    "image": "/images/goods/image_30.png",
+    "description": "Чемодан-скутер: едет сам и везёт багаж. Запас хода для аэропорта и города.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Запас хода",
+        "value": "до 10 км"
+      },
+      {
+        "name": "Нагрузка",
+        "value": "до 100 кг"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Умный чемодан-скутер черный",
+    "type": "Электротранспорт",
+    "color": "Черный",
+    "price": 67990,
+    "rating": 4.0,
+    "popularity": 31,
+    "isNew": false,
+    "isHit": false,
+    "novelty": 1,
+    "image": "/images/goods/image_31.png",
+    "description": "Чёрный чемодан-скутер с электроприводом и отсеком для ручной клади.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Запас хода",
+        "value": "до 10 км"
+      },
+      {
+        "name": "Нагрузка",
+        "value": "до 100 кг"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Дыхательный тренажер",
+    "type": "Аксессуары",
+    "color": "Фиолетовый",
+    "price": 7990,
+    "rating": 4.3,
+    "popularity": 22,
+    "isNew": true,
+    "isHit": false,
+    "novelty": 31,
+    "image": "/images/goods/image_32.png",
+    "description": "Тренажёр для дыхательных упражнений, помогает восстановиться после нагрузок.",
+    "specs": [
+      {
+        "name": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "name": "Режимы",
+        "value": "3 уровня"
+      },
+      {
+        "name": "Материал",
+        "value": "Гипоаллергенный пластик"
+      }
+    ]
+  }
+]

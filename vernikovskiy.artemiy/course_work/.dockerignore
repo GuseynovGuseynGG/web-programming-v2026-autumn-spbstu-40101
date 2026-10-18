@@ -1,0 +1,12 @@
+.git
+.gitignore
+**/node_modules
+**/dist
+**/.session-secret
+**/.env
+**/*.log
+docs
+client/dist
+**/terminals
+**/.cursor
+**/.vscode
