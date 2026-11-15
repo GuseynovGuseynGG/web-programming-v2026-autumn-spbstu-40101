@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: #1f2937;
+  background: #f3f4f6;
+}
+
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+.user-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: flex-end;
+  padding: 16px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 14px;
+}
+
+input {
+  min-width: 0;
+  padding: 8px;
+  font: inherit;
+  border: 1px solid #9ca3af;
+  border-radius: 6px;
+}
+
+.button {
+  padding: 8px 12px;
+  font: inherit;
+  color: #fff;
+  cursor: pointer;
+  background: #2563eb;
+  border: 0;
+  border-radius: 6px;
+}
+
+.button:hover {
+  background: #1d4ed8;
+}
+
+.button:focus-visible,
+input:focus-visible {
+  outline: 2px solid #f59e0b;
+  outline-offset: 2px;
+}
+
+.button-secondary {
+  background: #6b7280;
+}
+
+.button-secondary:hover {
+  background: #4b5563;
+}
+
+.button-danger {
+  background: #dc2626;
+}
+
+.button-danger:hover {
+  background: #b91c1c;
+}
+
+.message {
+  min-height: 1.5em;
+  margin: 12px 0;
+  color: #b91c1c;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 20px;
+  overflow-wrap: anywhere;
+}
+
+.card-id {
+  margin: 0;
+  color: #6b7280;
+}
+
+.card-subtitle {
+  margin: 8px 0 0;
+  font-size: 16px;
+}
+
+.friend-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.friend-item {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+  overflow-wrap: anywhere;
+}
+
+.friend-empty {
+  color: #6b7280;
+}
+
+.friend-form {
+  display: flex;
+  gap: 8px;
+}
+
+.friend-form input {
+  flex: 1;
+}
+
+.empty {
+  color: #6b7280;
+}
