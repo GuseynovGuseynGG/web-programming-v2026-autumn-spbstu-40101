@@ -1,0 +1,80 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #1f2937;
+  background-color: #f5f7fa;
+}
+
+.page {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 32px 16px;
+}
+
+.page-title {
+  margin: 0 0 24px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.task-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgb(15 23 42 / 0.08);
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 20px;
+  border-bottom: 1px solid #e5e7eb;
+  transition: background-color 0.15s ease;
+}
+
+.task:last-child {
+  border-bottom: none;
+}
+
+.task:hover {
+  background-color: #f9fafb;
+}
+
+.task::before {
+  flex-shrink: 0;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.task-done::before {
+  content: '✅';
+}
+
+.task-cancelled::before {
+  content: '❌';
+}
+
+.task-cancelled {
+  color: #9ca3af;
+  text-decoration: line-through;
+}
+
+.task-in-progress::before {
+  content: '⏳';
+}

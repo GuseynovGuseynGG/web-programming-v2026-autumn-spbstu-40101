@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  padding: 10px;
+}
+
+.title {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  padding: 10px;
+  overflow-x: auto;
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 220px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.cardimage {
+  display: block;
+  width: 200px;
+  height: 150px;
+  padding: 10px;
+  object-fit: cover;
+}
+
+.cardtitle {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.carddescription {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
