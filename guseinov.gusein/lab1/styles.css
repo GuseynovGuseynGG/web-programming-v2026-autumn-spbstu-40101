@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+}
+
+.flag {
+  position: relative;
+  width: min(100%, 30rem);
+  aspect-ratio: 5 / 3;
+  background-color: #006a4e;
+}
+
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 40%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-color: #f42a41;
+  transform: translate(-50%, -50%);
+}
